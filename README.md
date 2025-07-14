@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [MyCoolProject](https://github.com/johndoe/mycoolproject)  
 🌱 I’m learning **React**, **Node.js**, and **GraphQL**,**Html**,**Css**,**Javascript**,**Django**  
-💬 Ask me about **JavaScript**, **Python**, or **APIs**  
+💬 Ask me about **JavaScript**, **Python**, or **APIs**  ,**so fucking genius**
 📫 Reach me at [cybercrimer0101@gmail.com](cybercrimer0101@gmail.com)  
 ⚡ Fun fact: I love coding late at night! 🌙  
 
